@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
-<h3 align="center">Software developer in building next-generation web applications backend with Golang.I am eager to learn and use new generation software technologies.</h3>
+<h3 align="center">Hakkında
+I am a backend developer and have been working with Golang for over a year. I specialize in web application development and database management. My priority is always to create high-quality and performant products in my work. Therefore, I constantly keep up with new technologies in the backend field and use them to make innovative developments.
+
+I have gained significant experience in the field of backend development, particularly in RESTful APIs, Including SQL query optimization, code refactoring, Redis integration, admin panel management systems, CRM applications, RESTful APIs, session management, performance optimization, and server management..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametavcii&label=Profile%20views&color=0e75b6&style=flat" alt="sametavcii" /> </p>
 
